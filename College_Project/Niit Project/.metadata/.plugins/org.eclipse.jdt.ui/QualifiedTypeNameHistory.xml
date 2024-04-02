@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.MarksheetModelHibImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.RoleModelHibImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.StudentModelHibImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.UserModelHibImp"/>
+    <fullyQualifiedTypeName name="in.com.college.model.MarksheetModelHibImp"/>
+    <fullyQualifiedTypeName name="in.com.college.util.DataValidator"/>
+    <fullyQualifiedTypeName name="in.com.college.util.PropertyReader"/>
+    <fullyQualifiedTypeName name="in.com.college.model.UserModelHibImp"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="in.com.college.model.StudentModelHibImp"/>
+    <fullyQualifiedTypeName name="in.com.college.util.ServletUtility"/>
+    <fullyQualifiedTypeName name="in.com.college.util.DataUtility"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="org.codehaus.classworlds.DuplicateRealmException"/>
+    <fullyQualifiedTypeName name="in.com.college.exception.ApplicationException"/>
+    <fullyQualifiedTypeName name="in.com.college.dto.StudentDTO"/>
+    <fullyQualifiedTypeName name="in.com.college.exception.DuplicateRecordException"/>
+    <fullyQualifiedTypeName name="in.com.college.dto.UserDTO"/>
+</qualifiedTypeNameHistroy>

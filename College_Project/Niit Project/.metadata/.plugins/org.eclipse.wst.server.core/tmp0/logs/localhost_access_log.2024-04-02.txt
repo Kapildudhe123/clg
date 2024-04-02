@@ -1,0 +1,14 @@
+127.0.0.1 - - [02/Apr/2024:11:15:22 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:26 +0530] "GET /project_3/ HTTP/1.1" 200 692
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:27 +0530] "GET /project_3/img/indexImg.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:31 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3879
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:31 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:31 +0530] "GET /project_3/img/logologo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:31 +0530] "GET /project_3/img/imagess.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:35 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 6726
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:35 +0530] "GET /project_3/img/loginn.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:53 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:53 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 6038
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:15:53 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:16:25 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 6038
+0:0:0:0:0:0:0:1 - - [02/Apr/2024:11:16:25 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
